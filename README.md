@@ -4,8 +4,9 @@
 2.Download erlang -> https://www.erlang.org/downloads
 3.Install both
 4.Go to rabbitMQ folder and then in sbin and open cmd and run the command
-Enable plugins -> rabbitmq-plugins enable rabbitmq_management Enabling
-5.http://localhost:15672
+Enable plugins -> rabbitmq-plugins enable rabbitmq_management
+5. Restart the system.
+6.http://localhost:15672
 ```
 
 
